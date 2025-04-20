@@ -40,19 +40,24 @@ FinMate is a smart personal finance web application designed to help users manag
 
 ## Glimpse of Webpages
 
-![Screenshot 2025-04-20 192630](https://github.com/user-attachments/assets/9fa9a786-61b4-4145-90f7-a9989fafd40e)
-![Screenshot 2025-04-20 192644](https://github.com/user-attachments/assets/75aaa70f-cf28-49e4-90b8-481716bc6534)
-![Screenshot 2025-04-20 192921](https://github.com/user-attachments/assets/8a5d0b50-19c3-412b-86f8-5c2c6fb3be19)![Screenshot 2025-04-20 192951](https://github.com/user-attachments/assets/1f199917-8553-43e3-9c1e-afc7419d284e)
-![Screenshot 2025-04-20 192955](https://github.com/user-attachments/assets/bfc9d2e6-450a-410d-baa4-a25bcfefba4f)![Screenshot 2025-04-20 193016](https://github.com/user-attachments/assets/b63fb6f7-9623-4d9d-9e16-67ac5c02a721)
-![Screenshot 2025-04-20 193027](https://github.com/user-attachments/assets/cad906f7-d82c-450b-b366-0929835a6cc9)
-![Screenshot 2025-04-20 193035](https://github.com/user-attachments/assets/85dd6ef6-7367-48b9-9884-6eea338a99a8)
-![Screenshot 2025-04-20 193042](https://github.com/user-attachments/assets/b849c869-fe75-445b-bd24-812b232a9a03)![Screenshot 2025-04-20 193118](https://github.com/user-attachments/assets/3869f645-2860-4ad4-b364-759e237d7309)
-![Screenshot 2025-04-20 193137](https://github.com/user-attachments/assets/2392d445-b5ad-4037-a10f-4fd4eaa794fe)![Screenshot 2025-04-20 193146](https://github.com/user-attachments/assets/768bf0b9-9769-44b3-bdef-3e9393b618a3)
-![Screenshot 2025-04-20 193156](https://github.com/user-attachments/assets/e73ec93f-9c71-4e7f-a3f2-946d073f20d0)
-![Screenshot 2025-04-20 193208](https://github.com/user-attachments/assets/74779ac5-4ca7-4db7-bb80-310d279d7cf4)
-![Screenshot 2025-04-20 193221](https://github.com/user-attachments/assets/07ab77ee-1050-487b-aa82-6f7a3bef3ecf)![Screenshot 2025-04-20 193240](https://github.com/user-attachments/assets/23df45e4-8a24-4e29-9fa4-cbe05eca6189)
-![Screenshot 2025-04-20 193319](https://github.com/user-attachments/assets/3a3f1b07-b3ce-467e-b239-d36d7346e36a)
-![Screenshot 2025-04-20 193331](https://github.com/user-attachments/assets/67ac2547-0523-4a7f-b9c9-741ffa6a1f50)
+![Screenshot 2025-04-20 192630](https://github.com/user-attachments/assets/248cd66b-3aa6-4708-b68c-799f21a783d1)
+![Screenshot 2025-04-20 192644](https://github.com/user-attachments/assets/4cb29953-f2cf-44f8-86f0-062d0b14c7bf)
+![Screenshot 2025-04-20 192921](https://github.com/user-attachments/assets/71eb88ee-2662-4a98-ab06-61345769377c)
+![Screenshot 2025-04-20 192951](https://github.com/user-attachments/assets/b2688bc4-cbe0-4d7c-b1b2-0674a9456b0b)
+![Screenshot 2025-04-20 192955](https://github.com/user-attachments/assets/3299f455-dca8-4a8d-9f93-2ec207b6e895)
+![Screenshot 2025-04-20 193016](https://github.com/user-attachments/assets/af7f7122-a122-4ee8-baae-0c67de98fef9)
+![Screenshot 2025-04-20 193035](https://github.com/user-attachments/assets/7432d305-1769-48da-97ea-ba5c36503d8b)
+![Screenshot 2025-04-20 193118](https://github.com/user-attachments/assets/aa2f510f-bed2-4dc3-8397-527f38541225)
+![Screenshot 2025-04-20 193042](https://github.com/user-attachments/assets/e8ffddce-4ff9-4b1b-8641-c059c2ced9f2)
+![Screenshot 2025-04-20 193137](https://github.com/user-attachments/assets/f02e3b01-70dc-460b-9026-e22746cbcdeb)
+![Screenshot 2025-04-20 193146](https://github.com/user-attachments/assets/2a9e1ad6-daff-481e-83e6-8fa3d228cb9c)
+![Screenshot 2025-04-20 193156](https://github.com/user-attachments/assets/4701c266-eb3f-4dd4-911d-30ef5763c74a)
+![Screenshot 2025-04-20 193208](https://github.com/user-attachments/assets/99fac555-b18b-4dbd-ad6e-66764898ea80)
+![Screenshot 2025-04-20 193221](https://github.com/user-attachments/assets/6d4c4342-712b-4343-a7df-0323c2206c44)
+![Screenshot 2025-04-20 193240](https://github.com/user-attachments/assets/53b1fd9a-0aea-4297-a722-3809d0106a0c)
+![Screenshot 2025-04-20 193319](https://github.com/user-attachments/assets/e2a26749-913f-42b9-ba3c-a17ac0ae5376)
+![Screenshot 2025-04-20 193331](https://github.com/user-attachments/assets/07b3daa9-cef1-4c01-b0f1-71b056d76102)
+
 
 
 
